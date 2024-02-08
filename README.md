@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fernandacharbel
+- 👀 I’m interested in tecnology, books and travelling.
+- 🌱 I’m currently learning HTML/CSS
+- 📫 How to reach me: charbelfernanda@gmail.com
